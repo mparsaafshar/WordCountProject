@@ -5,4 +5,4 @@ This project was developed as part of the Advanced Programming course.
 ## Features
 - Count occurrences of a specific word in a given text.
 - Display the most frequent words along with their counts.
-- Allow the user to customize the number of frequent words to display.
+
